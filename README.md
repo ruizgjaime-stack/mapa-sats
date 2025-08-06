@@ -1,2 +1,2 @@
 # mapa-sats
-maps sats Lafuen
+maps sats Laufen
